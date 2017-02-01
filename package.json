@@ -1,0 +1,25 @@
+{
+  "name": "fis3-deploy-checkup",
+  "version": "1.0.0",
+  "description": "fis3 deploy checkup",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/huhuaaa/fis3-deploy-checkup.git"
+  },
+  "keywords": [
+    "fis",
+    "fis3",
+    "deploy",
+    "checkup"
+  ],
+  "author": "leopard",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/huhuaaa/fis3-deploy-checkup/issues"
+  },
+  "homepage": "https://github.com/huhuaaa/fis3-deploy-checkup"
+}
