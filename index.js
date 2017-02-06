@@ -25,7 +25,7 @@ var checkFile = function(file, options){
     var length = file.getContent().length
     if(length > options.maxSize) {
         process.stdout.write(
-          '\r Checkup warning -'.red.bold +
+          '\r Checkup warning - '.red.bold +
           subpath.replace(/^\//, '') +
           ' >> '.red.bold +
           normal(length) +
